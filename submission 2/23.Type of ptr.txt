@@ -1,0 +1,3 @@
+23. Which type of ptr is shown in line - int const* ptr = &var1; //wat is this pointer type?
+
+ans: Constant pointer
